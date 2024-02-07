@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iyappan Yadav</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **js**
+- 🌱 I’m currently learning **ml,dl**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
 
